@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "452567571020",
+    "project_id": "phoneauthentication-34cf3",
+    "storage_bucket": "phoneauthentication-34cf3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452567571020:android:b49402aaf9aeaf2998b2e9",
+        "android_client_info": {
+          "package_name": "com.example.s"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZBbjNGbnB7mKocUJoMtOg_SkFjF1kVoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
